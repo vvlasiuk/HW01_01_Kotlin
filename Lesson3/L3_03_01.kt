@@ -16,5 +16,5 @@ fun dayOfWeek() {
     println("What day is it today?")
 }
 
-Hello, world!
-What day is it today?
+//Hello, world!
+//What day is it today?

@@ -24,6 +24,6 @@ fun dayOfWeek() {
     }
 
 
-Hello, world!
-What day is it today?
-Tuesday
+//Hello, world!
+//What day is it today?
+//Tuesday

@@ -8,4 +8,4 @@ val haddock = "haddock"
 val snapper = "snapper"
 println("I like to eat $trout and $snapper and $haddock.")
 
-I like to eat trout and snapper and haddock.
+//I like to eat trout and snapper and haddock.

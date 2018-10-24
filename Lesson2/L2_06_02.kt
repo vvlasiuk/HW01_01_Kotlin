@@ -7,6 +7,6 @@ rainbowColor = "red"
 
 val blackColor = "black"
 blackColor = "red"
-error: val cannot be reassigned
 
-blackColor = "red"
+//error: val cannot be reassigned
+//blackColor = "red"

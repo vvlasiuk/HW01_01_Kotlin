@@ -12,4 +12,4 @@ var list : MutableList<Int> = mutableListOf()
 for (i in 0..100 step 7) list.add(i) 
 print(list)
 
-[0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98]
+//[0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98]
